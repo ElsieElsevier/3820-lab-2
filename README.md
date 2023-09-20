@@ -4,7 +4,7 @@
 This is how you insert code
 ```
 
-- [] This is how you insert checklist
+- [ ] This is how you insert checklist
 - [x] This is how you check off a checklist
 
 ## Have an image of Yoktocat
